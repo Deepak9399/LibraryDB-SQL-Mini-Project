@@ -15,7 +15,6 @@ This is a beginner-level SQL project that simulates a simple library system usin
 - `library_schema.sql`: SQL code to create tables
 - `library_data.sql`: Inserts sample data
 - `library_queries.sql`: Useful SELECT queries to interact with the data
-- `library_project_summary.pdf`: PDF summary for resumes/LinkedIn
 
 ## 📊 Key SQL Concepts Covered
 - `CREATE TABLE` with constraints
